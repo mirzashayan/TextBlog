@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Text Blog</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="blog.css" />
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:200,300" rel="stylesheet">
+</head>
+
+
+<body>
+
+<!--First Paragraph-->
+<div class="para">
+    <p class="date">03.05.18</p>
+        <h2>First heading</h2>
+
+        <p>Option A, you kill me right here and now. Apparently I've made that very easy for you. You can kill me, no witnesses and then spend the next few weeks or months tracking down Jesse Pinkman and you kill him too. A pointless exercise it seems to me but that is Option A. I continue cooking, you and I both forget about Pinkman. We forget this ever happened. We consider this a lone hiccup inan otherwise long and fruitful business arrangement. I prefer Option B. </p>
+
+            
+        <p>He'll live. I asked to see you in order to... clear the air. There are uh, some... issues that could cause a misunderstanding between us and I think it's in our best interest to lay the cards on the table. My brother-in-law, moments before he was attacked, someone called towarn him. I believe that same person was protecting me.  Those two men, the assassins. I believe I was theirprime target, but that somehow they were steered away from me to my brother-in-law. Because of this'intervention' I am alive. And yet, I think that this person was playing a much deeper game. He made that phone call becausehe wanted a shootout not a silent assassination.</p>
+
+        <!--Episode Number-->
+        <p class="exp">Season X Episode XX 12:34</p>
+    
+</div>
+
+
+<!--Second Paragraph-->
+<div class="para">
+    <p class="date">28.04.18</p>
+        <h2>Second heading</h2>
+
+        <p>You asked me if we were in the meth business or the money business. Neither, I’m in the empire business. I was under the impression that you had this under control. Well, that's what this is - problem solving. Skyler this is a simple division of labor - I bring in the money, you launder the money. This is what you wanted. Who are you talking to right now? Who is it you think you see? Do you know how much I make a year? I mean, even if I told you, you wouldn't believe it. Do you know what would happen if I suddenly decided to stop going into work? </p>
+
+        <p> A business big enough that it could be listed on the NASDAQ goes belly up. Disappears! It ceases to exist without me. No, you clearly don't know who you're talking to, so let me clue you in. I am not in danger, Skyler. I AM the danger! A guy opens his door and gets shot and you think that of me? No. I am the one who knocks! Did he speak to you? Would you just answer? What things? What people? A month ago, Gus was trying to kill both of us. And now, he pulls you out of the lab and employs you as... what... a, an assistant gunman? A tough guy? Does that make any sense to you? He says he sees something in you. What kind of game is he playing. Does he think you're that naïve? He can't truly think that you'd forget... let alone Gale, let alone Victor... and all the horror that goes along with all of that. </p>
+
+        <!--Episode Number-->
+        <p class="exp">Season X Episode XX 12:34</p>
+
+</div>
+
+   
+</body>
+</html>
